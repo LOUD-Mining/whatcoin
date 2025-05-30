@@ -1,30 +1,21 @@
-# uPlexa
+# WhatCoin
 
-Copyright (c) 2018-2020 uPlexa.  
+Copyright (c) 2025 WhatCoin
+Copyright (c) 2018-2020 WhatCoin.  
 Copyright (c) 2014-2019 The Monero Project.
 
 Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Development resources
 
-- Web: [uplexa.com](https://uplexa.com)
-- Mail: [uplexa@protonmail.com](mailto:uplexa@protonmail.com)
-- GitHub: [https://github.com/uPlexa/uplexa](https://github.com/uPlexa/uplexa)
-- Discord: [https://discord.gg/a7mAQwJ](https://discord.gg/a7mAQwJ)
-- Telegram: [https://t.me/uplexaOfficial](https://t.me/uplexaOfficial)
+- Web: To Be Announced
+- Mail: To Be Announced
+- GitHub: [https://github.com/whatcoin-project/WhatCoin](https://github.com/whatcoin-project/WhatCoin)
+- Discord: To Be Announced
 
 ## Vulnerability response
 
-- Our Vulnerability Response Process encourages responsible disclosure. Please send a message to uplexa@protonmail.com with "vuln" somewhere within the title, or reach out to QuantumL3aper in Discord or Telegram (make sure to go through the appropriate channels above.
-
-## Announcements
-
-- Subscribe to our email newsletter to stay up-to-date with the latest news and announcements. You may also subscribe to us on Delta or Blockfolio, and be sure to follow us on twitter!
-
-- Newsletter: [https://www.subscribepage.com/uplexa](https://www.subscribepage.com/uplexa)
-- Delta: [https://delta.app/en/crypto/upx/uplexacoin](https://delta.app/en/crypto/upx/uplexacoin)
-- BlockFolio: [https://blockfolio.com/coin/UPX/signal/sN4HemVcf1](https://blockfolio.com/coin/UPX/signal/sN4HemVcf1)
-- Twitter: [https://twitter.com/uPlexaCoin](https://twitter.com/uPlexaCoin) 
+- Our Vulnerability Response Process encourages responsible disclosure.  Please contact us directly via Discord.
 
 ## Build
 
@@ -36,21 +27,21 @@ Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Introduction
 
-uPlexa is a private, secure, untraceable, decentralised digital currency. You are your bank, you control your funds, and nobody can trace your transfers unless you allow them to do so.
+WhatCoin is a private, secure, untraceable, decentralised digital currency. You are your bank, you control your funds, and nobody can trace your transfers unless you allow them to do so.
 
-**Privacy:** uPlexa uses a cryptographically sound system to allow you to send and receive funds without your transactions being easily revealed on the blockchain (the ledger of transactions that everyone has). This ensures that your purchases, receipts, and all transfers remain absolutely private by default.
+**Privacy:** WhatCoin uses a cryptographically sound system to allow you to send and receive funds without your transactions being easily revealed on the blockchain (the ledger of transactions that everyone has). This ensures that your purchases, receipts, and all transfers remain absolutely private by default.
 
 **Security:** Using the power of a distributed peer-to-peer consensus network, every transaction on the network is cryptographically secured. Individual wallets have a 25 word mnemonic seed that is only displayed once, and can be written down to backup the wallet. Wallet files are encrypted with a passphrase to ensure they are useless if stolen.
 
-**Untraceability:** By taking advantage of ring signatures, a special property of a certain type of cryptography, uPlexa is able to ensure that transactions are not only untraceable, but have an optional measure of ambiguity that ensures that transactions cannot easily be tied back to an individual user or computer.
+**Untraceability:** By taking advantage of ring signatures, a special property of a certain type of cryptography, WhatCoin is able to ensure that transactions are not only untraceable, but have an optional measure of ambiguity that ensures that transactions cannot easily be tied back to an individual user or computer.
 
 ## About this project
 
-This is the core implementation of uPlexa. It is open source and completely free to use without restrictions, except for those specified in the license agreement below. There are no restrictions on anyone creating an alternative implementation of uPlexa that uses the protocol and network in a compatible manner.
+This is the core implementation of WhatCoin. It is open source and completely free to use without restrictions, except for those specified in the license agreement below. There are no restrictions on anyone creating an alternative implementation of WhatCoin that uses the protocol and network in a compatible manner.
 
 As with many development projects, the repository on Github is considered to be the "staging" area for the latest changes. Before changes are merged into that branch on the main repository, they are tested by individual developers in their own branches, submitted as a pull request, and then subsequently tested by contributors who focus on testing and code reviews. That having been said, the repository should be carefully considered before using it in a production environment, unless there is a patch in the repository for a particular show-stopping issue you are experiencing. It is generally a better idea to use a tagged release for stability.
 
-**Anyone is welcome to contribute to uPlexa's codebase!** If you have a fix or code change, feel free to submit it as a pull request directly to the "master" branch. In cases where the change is relatively small or does not affect other parts of the codebase it may be merged in immediately by any one of the collaborators. On the other hand, if the change is particularly large or complex, it is expected that it will be discussed at length either well in advance of the pull request being submitted, or even directly on the pull request.
+**Anyone is welcome to contribute to WhatCoin's codebase!** If you have a fix or code change, feel free to submit it as a pull request directly to the "master" branch. In cases where the change is relatively small or does not affect other parts of the codebase it may be merged in immediately by any one of the collaborators. On the other hand, if the change is particularly large or complex, it is expected that it will be discussed at length either well in advance of the pull request being submitted, or even directly on the pull request.
 
 ## License
 
@@ -62,11 +53,11 @@ If you want to help out, see [CONTRIBUTING](CONTRIBUTING.md) for a set of guidel
 
 ## Scheduled software upgrades
 
-uPlexa uses a fixed-schedule software upgrade (hard fork) mechanism to implement new features. This means that users of uPlexa (end users and service providers) should run current versions and upgrade their software on a regular schedule. Software upgrades occur during the months of March and August. The required software for these upgrades will be available prior to the scheduled date. Please check the repository prior to this date for the proper uPlexa software version. Below is the historical schedule and the projected schedule for the next upgrade.
+WhatCoin uses a fixed-schedule software upgrade (hard fork) mechanism to implement new features. This means that users of WhatCoin (end users and service providers) should run current versions and upgrade their software on a regular schedule. Software upgrades occur during the months of March and August. The required software for these upgrades will be available prior to the scheduled date. Please check the repository prior to this date for the proper WhatCoin software version. Below is the historical schedule and the projected schedule for the next upgrade.
 Dates are provided in the format YYYY-MM-DD.
 
 
-| Software upgrade block height | Date       | Fork version | Minimum uPlexa version | Recommended uPlexa version | Details                                                                            |  
+| Software upgrade block height | Date       | Fork version | Minimum WhatCoin version | Recommended WhatCoin version | Details                                                                            |  
 | ------------------------------ | -----------| ----------------- | ---------------------- | -------------------------- | ---------------------------------------------------------------------------------- |
 | 2                        | 2018-10-23 | v9                | v0.1.9.0                 | v0.1.9.0                     | CryptoNight-UPX, BulletProof
 | 52279                        | 2018-11-25 | v10                | v0.2.0.0                 | v0.2.0.0                     | 120s block times, LWMA difficulty
@@ -78,7 +69,7 @@ X's indicate that these details have not been determined as of commit date.
 
 Approximately three months prior to a scheduled software upgrade, a branch from Master will be created with the new release version tag. Pull requests that address bugs should then be made to both Master and the new release branch. Pull requests that require extensive review and testing (generally, optimizations and new features) should *not* be made to the release branch.
 
-## Compiling uPlexa from source
+## Compiling WhatCoin from source
 
 ### Dependencies
 
@@ -124,15 +115,15 @@ Debian / Ubuntu one liner for all dependencies
 
 Clone recursively to pull-in needed submodule(s):
 
-`$ git clone --recursive https://github.com/uPlexa/uplexa`
+`$ git clone --recursive https://github.com/WhatCoin/WhatCoin`
 
 If you already have a repo cloned, initialize and update:
 
-`$ cd uplexa && git submodule init && git submodule update`
+`$ cd WhatCoin && git submodule init && git submodule update`
 
 ### Build instructions
 
-uPlexa uses the CMake build system and a top-level [Makefile](Makefile) that
+WhatCoin uses the CMake build system and a top-level [Makefile](Makefile) that
 invokes cmake commands as needed.
 
 #### On Linux and OS X
@@ -140,7 +131,7 @@ invokes cmake commands as needed.
 * Install the dependencies
 * Change to the root of the source code directory, change to the most recent release branch, and build:
 
-        cd uplexa
+        cd WhatCoin
         git checkout stable
         make release
 
@@ -153,16 +144,16 @@ invokes cmake commands as needed.
     https://github.com/zeromq/cppzmq to `/usr/local/include` should fix that error.
 
     *Note*: The instructions above will compile the most stable release of the
-    uPlexa software. If you would like to use and test the most recent software,
+    WhatCoin software. If you would like to use and test the most recent software,
     use ```git checkout master```. The master branch may contain updates that are
     both unstable and incompatible with release software, though testing is always
     encouraged. If you would like to checkout the most stable branch, please use ```git checkout stable```
 
 * The resulting executables can be found in `build/release/bin`
 
-* Add `PATH="$PATH:$HOME/uplexa/build/release/bin"` to `.profile`
+* Add `PATH="$PATH:$HOME/WhatCoin/build/release/bin"` to `.profile`
 
-* Run uPlexa with `uplexad --detach`
+* Run WhatCoin with `WhatCoind --detach`
 
 * **Optional**: build and run the test suite to verify the binaries:
 
@@ -190,7 +181,7 @@ Tested on a Raspberry Pi Zero with a clean install of minimal Raspbian Stretch (
 
 * `apt-get update && apt-get upgrade` to install all of the latest software
 
-* Install the dependencies for uPlexa from the 'Debian' column in the table above.
+* Install the dependencies for WhatCoin from the 'Debian' column in the table above.
 
 * Increase the system swap size:
 ```
@@ -202,10 +193,10 @@ Tested on a Raspberry Pi Zero with a clean install of minimal Raspbian Stretch (
 
 * If using an external hard disk without an external power supply, ensure it gets enough power to avoid hardware issues when syncing, by adding the line "max_usb_current=1" to /boot/config.txt
 
-* Clone uplexa and checkout most recent release version:
+* Clone WhatCoin and checkout most recent release version:
 ```
-        git clone https://github.com/uPlexa/uplexa.git
-	cd uplexa
+        git clone https://github.com/WhatCoin/WhatCoin.git
+	cd WhatCoin
 	git checkout tags/v0.2.1.0
 ```
 * Build:
@@ -216,15 +207,15 @@ Tested on a Raspberry Pi Zero with a clean install of minimal Raspbian Stretch (
 
 * The resulting executables can be found in `build/release/bin`
 
-* Add `PATH="$PATH:$HOME/uplexa/build/release/bin"` to `.profile`
+* Add `PATH="$PATH:$HOME/WhatCoin/build/release/bin"` to `.profile`
 
-* Run uPlexa with `uplexad --detach`
+* Run WhatCoin with `WhatCoind --detach`
 
 * You may wish to reduce the size of the swap file after the build has finished, and delete the boost directory from your home directory
 
 #### *Note for Raspbian Jessie users:*
 
-If you are using the older Raspbian Jessie image, compiling uPlexa is a bit more complicated. The version of Boost available in the Debian Jessie repositories is too old to use with uPlexa, and thus you must compile a newer version yourself. The following explains the extra steps, and has been tested on a Raspberry Pi 2 with a clean install of minimal Raspbian Jessie.
+If you are using the older Raspbian Jessie image, compiling WhatCoin is a bit more complicated. The version of Boost available in the Debian Jessie repositories is too old to use with WhatCoin, and thus you must compile a newer version yourself. The following explains the extra steps, and has been tested on a Raspberry Pi 2 with a clean install of minimal Raspbian Jessie.
 
 * As before, `apt-get update && apt-get upgrade` to install all of the latest software, and increase the system swap size
 
@@ -235,7 +226,7 @@ If you are using the older Raspbian Jessie image, compiling uPlexa is a bit more
 	sudo /etc/init.d/dphys-swapfile start  
 ```
 
-* Then, install the dependencies for uPlexa except `libunwind` and `libboost-all-dev`
+* Then, install the dependencies for WhatCoin except `libunwind` and `libboost-all-dev`
 
 * Install the latest version of boost (this may first require invoking `apt-get remove --purge libboost*` to remove a previous version if you're not using a clean install):
 ```
@@ -252,7 +243,7 @@ If you are using the older Raspbian Jessie image, compiling uPlexa is a bit more
 ```
 * Wait ~4 hours
 
-* From here, follow the [general Raspberry Pi instructions](#on-the-raspberry-pi) from the "Clone uplexa and checkout most recent release version" step.
+* From here, follow the [general Raspberry Pi instructions](#on-the-raspberry-pi) from the "Clone WhatCoin and checkout most recent release version" step.
 
 #### On Windows:
 
@@ -295,15 +286,15 @@ application.
 
 * To git clone, run:
 
-        git clone --recursive https://github.com/uPlexa/uplexa.git
+        git clone --recursive https://github.com/WhatCoin/WhatCoin.git
 
 **Building**
 
 * Change to the cloned directory, run:
 
-        cd uplexa
+        cd WhatCoin
 
-* If you would like a specific [version/tag](https://github.com/uPlexa/uplexa/tags), do a git checkout for that version. eg. 'v0.2.1.0'. If you dont care about the version and just want binaries from master, skip this step:
+* If you would like a specific [version/tag](https://github.com/WhatCoin/WhatCoin/tags), do a git checkout for that version. eg. 'v0.2.1.0'. If you dont care about the version and just want binaries from master, skip this step:
 
         git checkout stable
 
@@ -329,9 +320,9 @@ application.
 
 ### On FreeBSD:
 
-The project can be built from scratch by following instructions for Linux above. If you are running uplexa in a jail you need to add the flag: `allow.sysvipc=1` to your jail configuration, otherwise lmdb will throw the error message: `Failed to open lmdb environment: Function not implemented`.
+The project can be built from scratch by following instructions for Linux above. If you are running WhatCoin in a jail you need to add the flag: `allow.sysvipc=1` to your jail configuration, otherwise lmdb will throw the error message: `Failed to open lmdb environment: Function not implemented`.
 
-We expect to add uPlexa into the ports tree in the near future, which will aid in managing installations using ports or packages.
+We expect to add WhatCoin into the ports tree in the near future, which will aid in managing installations using ports or packages.
 
 ### On OpenBSD:
 
@@ -346,7 +337,7 @@ The doxygen and graphviz packages are optional and require the xbase set.
 The Boost package has a bug that will prevent librpc.a from building correctly. In order to fix this, you will have to Build boost yourself from scratch. Follow the directions here (under "Building Boost"):
 https://github.com/bitcoin/bitcoin/blob/master/doc/build-openbsd.md
 
-You will have to add the serialization, date_time, and regex modules to Boost when building as they are needed by uPlexa.
+You will have to add the serialization, date_time, and regex modules to Boost when building as they are needed by WhatCoin.
 
 To build: `env CC=egcc CXX=eg++ CPP=ecpp DEVELOPER_LOCAL_TOOLS=1 BOOST_ROOT=/path/to/the/boost/you/built make release-static-64`
 
@@ -421,7 +412,7 @@ cmake ..
 doas make install
 ```
 
-Build uplexa: `env DEVELOPER_LOCAL_TOOLS=1 BOOST_ROOT=/usr/local make release-static`
+Build WhatCoin: `env DEVELOPER_LOCAL_TOOLS=1 BOOST_ROOT=/usr/local make release-static`
 
 ### On Solaris:
 
@@ -437,13 +428,13 @@ Then you can run make as usual.
 ### On Linux for Android (using docker):
 
         # Build image (for ARM 32-bit)
-        docker build -f utils/build_scripts/android32.Dockerfile -t uplexa-android .
+        docker build -f utils/build_scripts/android32.Dockerfile -t WhatCoin-android .
         # Build image (for ARM 64-bit)
-        docker build -f utils/build_scripts/android64.Dockerfile -t uplexa-android .
+        docker build -f utils/build_scripts/android64.Dockerfile -t WhatCoin-android .
         # Create container
-        docker create -it --name uplexa-android uplexa-android bash
+        docker create -it --name WhatCoin-android WhatCoin-android bash
         # Get binaries
-        docker cp uplexa-android:/src/build/release/bin .
+        docker cp WhatCoin-android:/src/build/release/bin .
 
 ### Building portable statically linked binaries (Cross Compiling)
 
@@ -471,11 +462,11 @@ You can also cross-compile static binaries on Linux for Windows and macOS with t
 
 The required packages are the names for each toolchain on apt. Depending on your distro, they may have different names.
 
-Using `depends` might also be easier to compile uPlexa on Windows than using MSYS. Activate Windows Subsystem for Linux (WSL) with a distro (for example Ubuntu), install the apt build-essentials and follow the `depends` steps as depicted above.
+Using `depends` might also be easier to compile WhatCoin on Windows than using MSYS. Activate Windows Subsystem for Linux (WSL) with a distro (for example Ubuntu), install the apt build-essentials and follow the `depends` steps as depicted above.
 
 The produced binaries still link libc dynamically. If the binary is compiled on a current distribution, it might not run on an older distribution with an older installation of libc. Passing `-DBACKCOMPAT=ON` to cmake will make sure that the binary will run on systems having at least libc version 2.17.
 
-## Installing uPlexa from a package
+## Installing WhatCoin from a package
 
 **DISCLAIMER: These packages are not part of this repository or maintained by this project's contributors, and as such, do not go through the same review process to ensure their trustworthiness and security.**
 
@@ -483,35 +474,35 @@ Packages are available for
 
 * Ubuntu and [snap supported](https://snapcraft.io/docs/core/install) systems, via a community contributed build.
 
-	snap install uplexa --beta
+	snap install WhatCoin --beta
 
 Installing a snap is very quick. Snaps are secure. They are isolated with all of their dependencies. Snaps also auto update when a new version is released.
 
 * Arch Linux (via [AUR](https://aur.archlinux.org/)):
-  - Stable release: [`uplexa`](https://aur.archlinux.org/packages/uplexa)
-  - Bleeding edge: [`uplexa-git`](https://aur.archlinux.org/packages/uplexa-git)
+  - Stable release: [`WhatCoin`](https://aur.archlinux.org/packages/WhatCoin)
+  - Bleeding edge: [`WhatCoin-git`](https://aur.archlinux.org/packages/WhatCoin-git)
 
 * Void Linux:
 
-        xbps-install -S uplexa
+        xbps-install -S WhatCoin
 
 * GuixSD
 
-        guix package -i uplexa
+        guix package -i WhatCoin
 
 * Docker
 
         # Build using all available cores
-        docker build -t uplexa .
+        docker build -t WhatCoin .
 
         # or build using a specific number of cores (reduce RAM requirement)
-        docker build --build-arg NPROC=1 -t uplexa .
+        docker build --build-arg NPROC=1 -t WhatCoin .
 
         # either run in foreground
-        docker run -it -v /uplexa/chain:/root/.bituplexa -v /uplexa/wallet:/wallet -p 18080:18080 uplexa
+        docker run -it -v /WhatCoin/chain:/root/.bitWhatCoin -v /WhatCoin/wallet:/wallet -p 18080:18080 WhatCoin
 
         # or in background
-        docker run -it -d -v /uplexa/chain:/root/.bituplexa -v /uplexa/wallet:/wallet -p 18080:18080 uplexa
+        docker run -it -d -v /WhatCoin/chain:/root/.bitWhatCoin -v /WhatCoin/wallet:/wallet -p 18080:18080 WhatCoin
 
 * The build needs 3 GB space.
 * Wait one  hour or more
@@ -532,17 +523,17 @@ Then go back to the source dir and type for example for windows 64bit:
 
 * ```cmake -DCMAKE_TOOLCHAIN_FILE=`pwd`/contrib/depends/x86_64-w64-mingw32```
 
-Using depends might also be easier to compile uplexa on windows than using msys. Activate windows subsystem for linux (for example ubuntu) install the apt build-essentials and follow the depends steps as depicted above.
+Using depends might also be easier to compile WhatCoin on windows than using msys. Activate windows subsystem for linux (for example ubuntu) install the apt build-essentials and follow the depends steps as depicted above.
 
-## Running uplexad
+## Running WhatCoind
 
 The build places the binary in `bin/` sub-directory within the build directory
 from which cmake was invoked (repository root by default). To run in
 foreground:
 
-    ./bin/uplexad
+    ./bin/WhatCoind
 
-To list all available options, run `./bin/uplexad --help`.  Options can be
+To list all available options, run `./bin/WhatCoind --help`.  Options can be
 specified either on the command line or in a configuration file passed by the
 `--config-file` argument.  To specify an option in the configuration file, add
 a line with the syntax `argumentname=value`, where `argumentname` is the name
@@ -550,17 +541,17 @@ of the argument without the leading dashes, for example `log-level=1`.
 
 To run in background:
 
-    ./bin/uplexad --log-file uplexad.log --detach
+    ./bin/WhatCoind --log-file WhatCoind.log --detach
 
 To run as a systemd service, copy
-[uplexad.service](utils/systemd/uplexad.service) to `/etc/systemd/system/` and
-[uplexad.conf](utils/conf/uplexad.conf) to `/etc/`. The [example
-service](utils/systemd/uplexad.service) assumes that the user `uplexa` exists
+[WhatCoind.service](utils/systemd/WhatCoind.service) to `/etc/systemd/system/` and
+[WhatCoind.conf](utils/conf/WhatCoind.conf) to `/etc/`. The [example
+service](utils/systemd/WhatCoind.service) assumes that the user `WhatCoin` exists
 and its home is the data directory specified in the [example
-config](utils/conf/uplexad.conf).
+config](utils/conf/WhatCoind.conf).
 
 If you're on Mac, you may need to add the `--max-concurrency 1` option to
-uplexa-wallet-cli, and possibly uplexad, if you get crashes refreshing.
+WhatCoin-wallet-cli, and possibly WhatCoind, if you get crashes refreshing.
 
 ## Internationalization
 
@@ -568,31 +559,31 @@ See [README.i18n.md](README.i18n.md).
 
 ## Using Tor
 
-While uPlexa isn't made to integrate with Tor, it can be used wrapped with torsocks, by
+While WhatCoin isn't made to integrate with Tor, it can be used wrapped with torsocks, by
 setting the following configuration parameters and environment variables:
 
 * `--p2p-bind-ip 127.0.0.1` on the command line or `p2p-bind-ip=127.0.0.1` in
-  uplexad.conf to disable listening for connections on external interfaces.
-* `--no-igd` on the command line or `no-igd=1` in uplexad.conf to disable IGD
+  WhatCoind.conf to disable listening for connections on external interfaces.
+* `--no-igd` on the command line or `no-igd=1` in WhatCoind.conf to disable IGD
   (UPnP port forwarding negotiation), which is pointless with Tor.
 * `DNS_PUBLIC=tcp` or `DNS_PUBLIC=tcp://x.x.x.x` where x.x.x.x is the IP of the
   desired DNS server, for DNS requests to go over TCP, so that they are routed
-  through Tor. When IP is not specified, uplexad uses the default list of
+  through Tor. When IP is not specified, WhatCoind uses the default list of
   servers defined in [src/common/dns_utils.cpp](src/common/dns_utils.cpp).
-* `TORSOCKS_ALLOW_INBOUND=1` to tell torsocks to allow uplexad to bind to interfaces
+* `TORSOCKS_ALLOW_INBOUND=1` to tell torsocks to allow WhatCoind to bind to interfaces
    to accept connections from the wallet. On some Linux systems, torsocks
    allows binding to localhost by default, so setting this variable is only
    necessary to allow binding to local LAN/VPN interfaces to allow wallets to
    connect from remote hosts. On other systems, it may be needed for local wallets
    as well.
 * Do NOT pass `--detach` when running through torsocks with systemd, (see
-  [utils/systemd/uplexad.service](utils/systemd/uplexad.service) for details).
+  [utils/systemd/WhatCoind.service](utils/systemd/WhatCoind.service) for details).
 * If you use the wallet with a Tor daemon via the loopback IP (eg, 127.0.0.1:9050),
   then use `--untrusted-daemon` unless it is your own hidden service.
 
-Example command line to start uplexad through Tor:
+Example command line to start WhatCoind through Tor:
 
-    DNS_PUBLIC=tcp torsocks uplexad --p2p-bind-ip 127.0.0.1 --no-igd
+    DNS_PUBLIC=tcp torsocks WhatCoind --p2p-bind-ip 127.0.0.1 --no-igd
 
 ### Using Tor on Tails
 
@@ -601,12 +592,12 @@ to add a rule to allow this connection too, in addition to telling torsocks to
 allow inbound connections. Full example:
 
     sudo iptables -I OUTPUT 2 -p tcp -d 127.0.0.1 -m tcp --dport 18081 -j ACCEPT
-    DNS_PUBLIC=tcp torsocks ./uplexad --p2p-bind-ip 127.0.0.1 --no-igd --rpc-bind-ip 127.0.0.1 \
+    DNS_PUBLIC=tcp torsocks ./WhatCoind --p2p-bind-ip 127.0.0.1 --no-igd --rpc-bind-ip 127.0.0.1 \
         --data-dir /home/amnesia/Persistent/your/directory/to/the/blockchain
 
 ## Debugging
 
-This section contains general instructions for debugging failed installs or problems encountered with uPlexa. First ensure you are running the latest version built from the Github repo.
+This section contains general instructions for debugging failed installs or problems encountered with WhatCoin. First ensure you are running the latest version built from the Github repo.
 
 ### Obtaining stack traces and core dumps on Unix systems
 
@@ -619,7 +610,7 @@ Run the build.
 Once it stalls, enter the following command:
 
 ```
-gdb /path/to/uplexad `pidof uplexad`
+gdb /path/to/WhatCoind `pidof WhatCoind`
 ```
 
 Type `thread apply all bt` within gdb in order to obtain the stack trace
@@ -632,21 +623,21 @@ Enter `echo core | sudo tee /proc/sys/kernel/core_pattern` to stop cores from be
 
 Run the build.
 
-When it terminates with an output along the lines of "Segmentation fault (core dumped)", there should be a core dump file in the same directory as uplexad. It may be named just `core`, or `core.xxxx` with numbers appended.
+When it terminates with an output along the lines of "Segmentation fault (core dumped)", there should be a core dump file in the same directory as WhatCoind. It may be named just `core`, or `core.xxxx` with numbers appended.
 
 You can now analyse this core dump with `gdb` as follows:
 
-`gdb /path/to/uplexad /path/to/dumpfile`
+`gdb /path/to/WhatCoind /path/to/dumpfile`
 
 Print the stack trace with `bt`
 
-* To run uplexa within gdb:
+* To run WhatCoin within gdb:
 
-Type `gdb /path/to/uplexad`
+Type `gdb /path/to/WhatCoind`
 
 Pass command-line options with `--args` followed by the relevant arguments
 
-Type `run` to run uplexad
+Type `run` to run WhatCoind
 
 ### Analysing memory corruption
 
@@ -654,15 +645,15 @@ There are two tools available:
 
 * ASAN
 
-Configure uPlexa with the -D SANITIZE=ON cmake flag, eg:
+Configure WhatCoin with the -D SANITIZE=ON cmake flag, eg:
 
     cd build/debug && cmake -D SANITIZE=ON -D CMAKE_BUILD_TYPE=Debug ../..
 
-You can then run the uplexa tools normally. Performance will typically halve.
+You can then run the WhatCoin tools normally. Performance will typically halve.
 
 * valgrind
 
-Install valgrind and run as `valgrind /path/to/uplexad`. It will be very slow.
+Install valgrind and run as `valgrind /path/to/WhatCoind`. It will be very slow.
 
 ### LMDB
 
@@ -670,7 +661,7 @@ Instructions for debugging suspected blockchain corruption as per @HYC
 
 There is an `mdb_stat` command in the LMDB source that can print statistics about the database but it's not routinely built. This can be built with the following command:
 
-`cd ~/uplexa/external/db_drivers/liblmdb && make`
+`cd ~/WhatCoin/external/db_drivers/liblmdb && make`
 
 The output of `mdb_stat -ea <path to blockchain dir>` will indicate inconsistencies in the blocks, block_heights and block_info table.
 
